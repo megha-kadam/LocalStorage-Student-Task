@@ -1,0 +1,6 @@
+body{
+    background-color: aliceblue;
+}
+#stdList tr i{
+    cursor: pointer;
+}
